@@ -1,5 +1,5 @@
 # Setup
-title: Carnaval Iquitos | Cultura
+title: Carnaval Iquitos
 description: Página web en donde se compartirán blogs y artículos sobre diversos temas culturales
 url: https://carnaval-iquitos-cas.github.io
 avatar: /avatar.jpeg
@@ -29,11 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 logo: logo.png
-social:
-  name: Oscar
-  links:
-  
-    - https://github.com/carnaval-iquitos-cas
+
 google_site_verification: xxxxx
 lang: es
 
