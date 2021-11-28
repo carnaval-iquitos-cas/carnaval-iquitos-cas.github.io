@@ -4,9 +4,9 @@ title: El Carnaval Amazónico en Iquitos
 date: 2021-11-27 23:18 +0800
 last_modified_at: 2021-11-27 01:08:25 +0800
 tags: [Iquitos,carnaval,cultura]
-toc:  false
+toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
+La alegría de los carnavales tiene su propio encanto en la selva. El Carnaval Amazónico, que tiene lugar en Iquitos, y en el que participan una serie de comunidades nativas, es una de las fiestas más tradicionales y antiguas de la Amazonía. 
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
