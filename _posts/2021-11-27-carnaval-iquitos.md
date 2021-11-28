@@ -12,7 +12,15 @@ Son miles los peruanos que durante esos días se acercan hasta la ciudad más gr
 
 ![carnaval1](/assets/carnaval1.jpg)
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+<h1 align="center">Origen del Carnaval Amazónico en Iquitos</h1>	
+
+Una de las fechas más importantes del Calendario de Festividades de Iquitos el Carnaval Amazónico en Iquitos, según las creencias de los antiguos pobladores de Loreto, es la época en que los demonios andan sueltos, es por este motivo que los participantes ostentan vestimenta de demonios y de seres mitológicos para estas celebraciones.
+
+![carnaval2](/assets/carnaval2.jpg)
+
+Fueron los pobladores moyombambinos quienes trajeron a Iquitos las costumbres del carnaval de su tierra durante la época del Boom del Caucho, desde entonces el Carnaval Amazónico en Iquitos se celebra res hasta mojarlos; antiguamente se hacían con huevos llenos de agua. manera peculiar danzando al ritmo de las pandillas alrededor de la humisha y con miles de colores sobre el rostro y cuerpo.
+
+
 
 ## Inline HTML elements
 
