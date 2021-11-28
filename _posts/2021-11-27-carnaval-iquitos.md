@@ -2,18 +2,15 @@
 layout: post
 title: El Carnaval Amazónico en Iquitos
 date: 2021-11-27 23:18 +0800
-last_modified_at: 2021-11-27 01:08:25 +0800
 tags: [Iquitos,carnaval,cultura]
 toc:  false
 ---
 La alegría de los carnavales tiene su propio encanto en la selva. El Carnaval Amazónico, que tiene lugar en Iquitos, y en el que participan una serie de comunidades nativas, es una de las fiestas más tradicionales y antiguas de la Amazonía. 
 
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
+Son miles los peruanos que durante esos días se acercan hasta la ciudad más grande y poblada de la Amazonía peruana. Vamos a conocer cómo se goza una de las principales fiestas en esa bella y calurosa tierra que es Iquitos.
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+![carnaval1](/assets/carnaval1.jpg)
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
