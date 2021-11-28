@@ -48,3 +48,16 @@ Los vecinos de las diferentes calles se reúnen para adornar sus humishas y deco
 Infaltable en el Carnaval Amazónico en Iquitos, es el personaje del Ño Carnavalón, un voluminoso individuo elegido monarca del carnaval y que tiene la responsabilidad de encabezar las antiquísimas celebraciones en las que participan jóvenes, niños y ancianos, quienes no han perdido la costumbre de agruparse en comparsas, vistiendo toda clase de atuendos, para desfilar por las diferentes calles de la ciudad. 
 
 <h1 align="center">Día central del Carnaval Amazónico en Iquitos</h1>	
+
+El día principal del Carnaval Amazónico en Iquitos, desde tempranas horas de la mañana, se realiza el concurso del barrio más decorado y la mejor humisha.
+
+![carnaval7](/assets/carnaval7.jpg)
+
+El Carnaval Amazónico en Iquitos se inicia cuando las bandas de música al compás del bombo baile, danza típico de la selva, hacen mover los cuerpos de niños, jóvenes y adultos en cada barrio de Iquitos.
+
+Las personas juegan con agua, barros de colores, achiote, pichohuayo, entre otros insumos que son sacados de algunas partes de la Selva Amazónica.
+
+Los pobladores danzan alrededor de la humisha, a ritmo de bombo baile, compartiendo un hacha para realizar los cortes y el último de ellos, el cual llega a tumbarlo, será el encargado de poner la humisha el siguiente año. No dejan de sonar en toda la fiesta las cumbias selváticas y el bombo baile. El Carnaval Amazónico en Iquitos es ideal para conocer la idiosincrasia del pueblo amazónico y las comunidades indígenas que viven en él. Una oportunidad de fiesta y algarabía en el corazón de la selva peruana.
+
+
+
