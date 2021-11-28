@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+He decido realizar mi experiencia porque a mi parecer muchos turistas no están del todo informados sobre las costumbres y/o tradiciones de Loreto, por lo que mi experiencia tratará sobre la creación de una página web donde pueda explicar lo que trata una de las principales tradiciones culturales de Loreto, tal como es el carnaval de Iquitos. Con esto podré de cierta forma revalorar nuestras culturas dando a conocer abiertamente información sobre la misma, la revaloración de la diversidad cultural aporta al ciudadano valores como la tolerancia, la cooperación y el aprecio sincero hacia los demás. 
