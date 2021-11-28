@@ -21,10 +21,14 @@ Una de las fechas más importantes del Calendario de Festividades de Iquitos el 
 Fueron los pobladores moyombambinos quienes trajeron a Iquitos las costumbres del carnaval de su tierra durante la época del Boom del Caucho, desde entonces el Carnaval Amazónico en Iquitos se celebra res hasta mojarlos; antiguamente se hacían con huevos llenos de agua. manera peculiar danzando al ritmo de las pandillas alrededor de la humisha y con miles de colores sobre el rostro y cuerpo.
 
 
+<h1 align="center">Actividades durante Semana del Carnaval amazónico en Iquitos</h1>	
 
-## Inline HTML elements
+El carnaval en nuestra bella tierra es particular y diferente, una mezcla de costumbres y tradiciones que nos ofrece una buena variedad de danzas típicas siendo la más popular “la pandilla” que se realiza alrededor de “la humisha”; los pasacalles con carros alegóricos, vestimentas típicas se encargan de animar las principales calles de Iquitos, sin dejar de mencionar los aromas y colores que invaden la ciudad en esos días.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+![carnaval3](/assets/carnaval3.jpg)
+
+Todos los barrios de Iquitos se organizan y preparan desde hace unos meses antes de lan fiesta del Carnaval Amazónico. En la mayoría de ellos se instalan las humishas, unas palmeras adornadas con regalos, globos y otros elementos, y alrededor de la cual se baila hasta el amanecer. La tradición consiste en intentar tumbar la palmera. Quien lo consiga tumbar se encargará de organizar e instalar la humisha al año siguiente. Hay concursos de la Mejor Humisha de Iquitos o la Calle Más Decorada de la ciudad. Sin duda la humisha es el símbolo máximo de esta fiesta de color, olor y música típica. Es imposible imaginarse celebrar el Carnaval Amazónico en Iquitos sin una de ellas. 
+
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
